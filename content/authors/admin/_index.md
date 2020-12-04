@@ -18,11 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Management of complexity,
-- Intelligent manufacturing processes and systems,
-- Holonic manufacturing,
+- Intelligent manufacturing systems,
 - Distributed production systems,
 - Digital factories,
-- Modelling and optimisation of production processes and process chains 
+- Modelling and optimisation of production systems
 
 education:
   courses:
