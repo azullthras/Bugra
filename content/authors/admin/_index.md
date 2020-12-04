@@ -17,9 +17,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Management of complexity,
+- Intelligent manufacturing processes and systems,
+- Holonic manufacturing,
+- Distributed production systems,
+- Digital factories,
+- Modelling and optimisation of production processes and process chains 
 
 education:
   courses:
