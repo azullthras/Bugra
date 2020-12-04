@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bugra Alkan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: University Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: London South Bank University
+  url: "lsbu.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -60,7 +60,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr Alkan holds a PhD degree in Manufacturing Engineering from the University of Warwick, UK (2019) and has an MSc degree in Mechanical Engineering from Izmir Institute of Technology, Izmir, Turkey. He completed his Post-Doctoral studies on cyber-physical human-machine systems at University of Bristol, Bristol, the UK between 2019 and 2020. Currently, he is working as an Assistant Professor (Lecturer) at Computer Science and Informatics Department, London South Bank University, UK. Dr Alkan’s research is mainly in the domain of intelligent manufacturing and Industry 4.0; specializations include cyber-physical production systems, digital manufacturing and assembly, recommender systems, and multi-objective/disciplinary product/system design optimization. Dr Alkan has worked as a researcher on a number of EPSRC projects, including Knowledge-Driven Configurable Manufacturing (KDCM) and Thales-Bristol Partnership in Hybrid Autonomous Systems Engineering (TB-PHASE), in collaboration with manufacturers from aerospace, automotive and defence industries. He is a member of IEEE. He has authored and co-authored several peer-reviewed academic journal articles and conference proceedings.
