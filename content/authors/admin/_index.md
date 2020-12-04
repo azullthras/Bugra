@@ -11,7 +11,7 @@ role: University Lecturer
 # Organizations/Affiliations
 organizations:
 - name: London South Bank University
-  url: "lsbu.ac.uk"
+  url: "https://www.lsbu.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:alkanb@lsbu.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=mwVfOosAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Dr Alkan holds a PhD degree in Manufacturing Engineering from the University of Warwick, UK (2019) and has an MSc degree in Mechanical Engineering from Izmir Institute of Technology, Izmir, Turkey. He completed his Post-Doctoral studies on cyber-physical human-machine systems at University of Bristol, Bristol, the UK between 2019 and 2020. Currently, he is working as an Assistant Professor (Lecturer) at Computer Science and Informatics Department, London South Bank University, UK. Dr Alkan’s research is mainly in the domain of intelligent manufacturing and Industry 4.0; specializations include cyber-physical production systems, digital manufacturing and assembly, recommender systems, and multi-objective/disciplinary product/system design optimization. Dr Alkan has worked as a researcher on a number of EPSRC projects, including Knowledge-Driven Configurable Manufacturing (KDCM) and Thales-Bristol Partnership in Hybrid Autonomous Systems Engineering (TB-PHASE), in collaboration with manufacturers from aerospace, automotive and defence industries. He is a member of IEEE. He has authored and co-authored several peer-reviewed academic journal articles and conference proceedings.
+Dr Alkan is working as an Assistant Professor (Lecturer) at Computer Science and Informatics Division, London South Bank University, UK. Dr Alkan’s research is mainly in the domain of intelligent manufacturing and Industry 4.0; specializations include cyber-physical production systems, digital manufacturing and assembly, recommender systems, and multi-objective/disciplinary product/system design optimization. Dr Alkan has worked as a researcher on a number of EPSRC projects, including Knowledge-Driven Configurable Manufacturing (KDCM) and Thales-Bristol Partnership in Hybrid Autonomous Systems Engineering (TB-PHASE), in collaboration with manufacturers from aerospace, automotive and defence industries. He is a member of IEEE. He has authored and co-authored several peer-reviewed academic journal articles and conference proceedings.
